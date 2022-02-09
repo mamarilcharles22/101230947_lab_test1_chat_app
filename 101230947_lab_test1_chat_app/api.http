@@ -1,0 +1,7 @@
+app.post(‘/register’,function(req,res){})
+
+app.post(‘/login’,function(req,res){})
+
+app.post(‘/friend_request’,function(req,res){})
+
+app.post(‘/friend_request/confirmed’,function(req,res){})
